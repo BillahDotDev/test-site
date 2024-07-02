@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-import './App.css';  
+import './App.css';
 
 function App() {
     return (
@@ -12,7 +12,7 @@ function App() {
                     borderRadius: 10,
                     textAlign: 'center',
                     margin: 10,
-                    padding: 11,
+                    padding: 10,
                     marginTop: 10,
                 }}>
                 <p style={{ fontSize: 150, color: 'white' }}>HELLO!</p>
@@ -26,7 +26,7 @@ function App() {
                         height: 70,
                         fontSize: 15,
                     }}>
-                    Let's Talk!
+                    Let's Click!
                 </button>
             </div>
         </>
